@@ -1,6 +1,8 @@
 # Yizhou Wang
 *UCSD Class of 2023*
+
 ![This is an image](https://www.ucsd.edu/_resources/img/logo_UCSD.png)
+
 [UC San Diego](https://www.ucsd.edu)
 
 ## Quotes
