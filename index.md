@@ -16,17 +16,27 @@ System.out.println("Hello, World!");
 [README.md](README.md)
 
 ## Some Lists
-List 1:
+List 1 - Academic levels:
 - Freshman
 - Sophomore
-- **Junior!**
+- Current level: **Junior!**
 
-List 2:
+List 2 - Majors:
 1. Mathematics
 2. Mathematics-Computer Science
-3. **Computer Science**
+3. Current major: **Computer Science**
 
-List 3:
-- [x] Lab 1
-- [ ] Lab 2
-- [ ] Other Labs
+List 3 - CSE courses taken:
+- [x] CSE 8A
+- [x] CSE 8B
+- [x] CSE 12
+- [x] CSE 15L
+- [x] CSE 20
+- [x] CSE 21
+- [x] CSE 30
+- [x] CSE 100
+- [x] CSE 101
+- [x] CSE 105
+- [ ] CSE 110
+- [ ] CSE 140
+- [ ] CSE 140L
